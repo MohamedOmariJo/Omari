@@ -1,0 +1,8 @@
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.17.0
+openpyxl>=3.1.0
+reportlab>=4.0.0
+scikit-learn>=1.0.0
+psutil>=5.9.0
